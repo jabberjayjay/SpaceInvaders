@@ -1,0 +1,11 @@
+/out:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\intermediate\\"
+/ref:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\in"
+/ref:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\Johnny\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Johnny\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x64\ilc\csc"

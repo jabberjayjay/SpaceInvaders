@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\ARM\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\obj\ARM\Release\PackageLayout\Assets\SmallTile.scale-100.png"			"Assets\SmallTile.scale-100.png"

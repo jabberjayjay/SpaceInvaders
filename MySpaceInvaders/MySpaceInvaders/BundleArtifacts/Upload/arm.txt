@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\ARM\Release\Upload\MySpaceInvaders_1.1.8.0_ARM.appx
+SymbolPackage=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\ARM\Release\Upload\MySpaceInvaders_1.1.8.0\MySpaceInvaders_1.1.8.0_ARM.appxsym
+ResourcePack=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\ARM\Release\MySpaceInvaders_1.1.8.0_scale-100.appx
+ResourcePack=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\ARM\Release\MySpaceInvaders_1.1.8.0_scale-125.appx
+ResourcePack=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\ARM\Release\MySpaceInvaders_1.1.8.0_scale-150.appx
+ResourcePack=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\ARM\Release\MySpaceInvaders_1.1.8.0_scale-400.appx

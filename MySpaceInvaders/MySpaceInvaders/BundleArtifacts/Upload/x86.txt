@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\x86\Release\Upload\MySpaceInvaders_1.1.8.0_x86.appx
+SymbolPackage=C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\bin\x86\Release\Upload\MySpaceInvaders_1.1.8.0\MySpaceInvaders_1.1.8.0_x86.appxsym

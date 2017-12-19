@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <UseSimulator>false</UseSimulator>
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <UseEmulator>false</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\LockScreenLogo.scale-200.png</Source>
+    <SmallTileSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\StoreLogo.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\Square44x44Logo.scale-200.png</MediumTileSource>
+    <WideTileSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\Wide310x150Logo.scale-200.png</WideTileSource>
+    <LargeTileSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\Square44x44Logo.scale-200.png</LargeTileSource>
+    <AppIconSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\StoreLogo.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\SplashScreen.scale-200.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\StoreLogo.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\Johnny\source\repos\MySpaceInvaders\MySpaceInvaders\Assets\Square44x44Logo.scale-200.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
