@@ -26,6 +26,7 @@ the number of enemies in waves on screen.
 
 
 -----------------------------------------------REFERENCES-------------------------------------------------------------
+
 Initial 2d scrolling, stars emitter and enemy code for this app was taken from 
 https://blogs.windows.com/buildingapps/2015/03/13/how-to-make-a-windows-store-game-with-c-and-xaml-part-1/
 To this I added movement in the y axis and hit detection for front and back of ship.
